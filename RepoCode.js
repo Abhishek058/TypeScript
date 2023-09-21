@@ -12,6 +12,6 @@ var isLoggedIn = false;
 // any
 var hero;
 function getHero() {
-    return "thor";
+  return "thor";
 }
 hero = getHero();
