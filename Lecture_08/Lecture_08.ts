@@ -19,4 +19,16 @@ myUser.email = "j@bj.mail";
 
 // myUser.id = "21233"; //readonly variable cant be changed
 
+type cardNumber = {
+  cardNumber: string;
+};
+
+type cardDate = {
+  cardDate: string;
+};
+
+type cardDetail = {
+  cardDetail: string;
+};
+
 export {};
