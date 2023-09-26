@@ -1,2 +1,2 @@
 "use strict";
-console.log("Welcome to type script");
+console.log("Welcome to typescript....");
