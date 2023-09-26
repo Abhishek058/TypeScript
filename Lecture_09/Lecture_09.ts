@@ -12,3 +12,5 @@ superHero.push("spiderman");
 heroPower.push(8);
 
 allUsers.push({ name: "", isActive: true });
+
+export {};
