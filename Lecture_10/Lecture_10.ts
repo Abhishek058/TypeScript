@@ -21,4 +21,9 @@ function getId(id: number | string) {
 getId("8142");
 getId(3525);
 
+const data1: number[] = [1, 2, 3, 4];
+const data2: string[] = ["1", "2", "3", "4"];
+const data3: string[] | number[] = ["1", "2", "3"];
+const data4: (string | number | boolean)[] = ["1", 2, "3", true];
+
 export {};
